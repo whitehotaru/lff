@@ -1,13 +1,13 @@
 ---
 title: Grundschule, Kinder, Medien und Smartphones
-description: "Ein Elterndauerthema ist der Umgang von Kindern mit dem Smartphone. "
+description: "Ein Elterndauerthema ist der Umgang von Kindern mit dem Smartphone. Durch die Schule geraten die Kinder zwangsweise mit den Handys der Mitschüler:innen in Kontakt, auch wenn es zu Hause ganz anders gelebt wird. "
 date: 2025-05-19T22:09:09.174Z
 preview: ""
 tags:
     - Kinder
     - Medien
     - Smartphone
-    - Grundschule
+    - Schule
 categories:
     - Erziehung
 media_subpath: /images
@@ -16,10 +16,10 @@ image:
     alt: Nahaufnahme einer Person, die ein Smartphone mit vielen sichtbaren App-Symbolen in der rechten Hand hält. Die Person trägt einen türkisfarbenen Pullover, der Hintergrund ist unscharf.
     caption: Bild freundlicherweise zur Verfügung von Nutzer https://pixabay.com/users/mariusmb-1174996/ auf Pixabay.
 keywords:
-    - Grundschule
+    - Handy
     - Kinder
     - Smartphone
-    - Handy
+    - Schule
 draft: true
 slug: grundschule-kinder-medien-und-smartphones
 ---
@@ -32,8 +32,16 @@ Auch bei uns ist das Thema aktuell. In der vierten Klasse des Großen ist er ohn
 >
 {: .prompt-info }
 
-Unsere Kinder sind noch in der Grundschule. Die Kinder sind relativ klein und der soziale Druck ist noch relativ gering. In den weiterführenden Schulen ist der Handykonsum wesentlich höher. Einen ziemlich erschreckenden Einblick liefert [Clemens Beisel](https://clemenshilft.de/?ref=linuxfürfamilien.net), der im [Podcast](https://www.swr.de/~embed/swrkultur/wissen/clemens-beisel-handysuechtige-kinder-was-schulen-und-eltern-tun-koennen-100.html) mit [Bob Blume](https://bobblume.de/?ref=linuxfürfamilien.net) beispielsweise beschreibt, wie Schüler:innen Bildschirmzeiten auf Tiktok in der Woche zwischen 20 und 40 Stunden angehäuft haben oder 33.000 Nachrichten auf WhatsApp im Jahr bekommen haben – neben den normalen Schulaktivitäten!
+## Wie Kinder Smartphones wirklich nutzen
 
-Moderne Social Media Apps sind darauf ausgerichtet „sticky“ zu sein. Sie werden von vielen intelligenten Menschen darauf optimiert die Nutzer:innen möglichst lange und möglichst oft in die App zu ziehen und dort zu halten. 
+Unsere Kinder sind noch in der Grundschule. Die Kinder sind relativ klein und der soziale Druck ist noch relativ gering. In den weiterführenden Schulen ist der Handykonsum wesentlich höher. Einen ziemlich erschreckenden Einblick liefert [Clemens Beisel](https://clemenshilft.de/?ref=linuxfürfamilien.net), der im [Podcast: „Die Schule brennt - der Bildungspodcast](https://www.swr.de/~embed/swrkultur/wissen/clemens-beisel-handysuechtige-kinder-was-schulen-und-eltern-tun-koennen-100.html) mit [Bob Blume“](https://bobblume.de/?ref=linuxfürfamilien.net) beispielsweise beschreibt, wie Schüler:innen Bildschirmzeiten auf Tiktok in der Woche zwischen 20 und 40 Stunden angehäuft haben oder 33.000 Nachrichten auf WhatsApp im Jahr bekommen haben – neben den normalen Schulaktivitäten! Die knappe dreiviertelstunde des Podcasts ist super investiert, um als Eltern einen Überblick über die Intensität und Probleme der App-Nutzung zu erhalten.
 
-Ich bin 
+Moderne Social Media Apps sind darauf ausgerichtet „sticky“ zu sein. Sie werden von vielen intelligenten Menschen darauf optimiert die Nutzer:innen möglichst lange und möglichst oft in die App zu ziehen und dort zu halten.
+
+## Kreativ sein mit dem Smartphone in der Schule
+
+Ich bin ein Fan davon, sich kreativ mit Technologie auseinanderzusetzen. Ich betreue unter anderem eine Hacker AG an der Schule meiner Söhne, damit die Kinder einen kreativen Umgang mit Technik lernen können und auch lernen können, was hinter all den bunten Bildern steht. Und auch ein Smartphone kann kreativ genutzt werden. Mein Sohn hat mit seinem Klassenkamerad beispielsweise sehr coole [Stop-Motion-Filme](https://de.wikipedia.org/wiki/Stop-Motion) mit LEGO gedreht. Und auch in der Schule gab es eine AG, die ähnliches mit Tablets und Smartphones gemacht hat.
+
+Angesichts der Zahlen, die oben genannt werden, bin ich allerdings skeptisch, ob wir als Eltern dem Thema genügend Raum bieten, denn letztlich können und müssen die Eltern entscheiden, welche Apps die Kinder in welcher Intensität nutzen.
+
+In unserer Familie 
