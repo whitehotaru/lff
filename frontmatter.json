@@ -57,7 +57,11 @@
     {
       "title": "Seiten",
       "path": "[[workspace]]/_tabs"
+    },
+    {
+      "title": "Bilder",
+      "path": "[[workspace]]/images"
     }
   ],
-  "frontMatter.git.enabled": true
+  "frontMatter.git.enabled": false
 }
