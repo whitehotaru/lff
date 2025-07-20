@@ -9,12 +9,10 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-# Impressum
-
 Angaben gemäß § 5 TMG
 
-Thomas Weiss
-Bänschstr. 52
+Thomas Weiss  
+Bänschstr. 52  
 10247 Berlin
 
 ## Kontakt
@@ -35,6 +33,6 @@ Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konk
 
 ## Urheberrecht
 
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Alle durch den Seitenbetreiber erstellten Inhalte unterliegen, soweit nicht anders angegeben, der [Namensnennung-Share Alike 4.0 International Lizenz](https://creativecommons.org/licenses/by-sa/4.0/deed.de). Der rechtlich bindende Text kann unter https://creativecommons.org/licenses/by-sa/4.0/legalcode.de eingesehen werden.
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Alle durch den Seitenbetreiber erstellten Inhalte unterliegen, soweit nicht anders angegeben, der [Namensnennung-Share Alike 4.0 International Lizenz](https://creativecommons.org/licenses/by-sa/4.0/deed.de). Der rechtlich bindende Text kann unter <https://creativecommons.org/licenses/by-sa/4.0/legalcode.de> eingesehen werden.
 
 Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
