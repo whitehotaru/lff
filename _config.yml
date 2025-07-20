@@ -63,8 +63,8 @@ analytics:
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
-    id: "b2e4677b-0b42-467c-9d74-0b98880d396f"
     domain: https://umami.xn--linuxfrfamilien-4vb.net
+    id: b2e4677b-0b42-467c-9d74-0b98880d396f
   matomo:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
