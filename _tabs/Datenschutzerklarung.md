@@ -58,7 +58,7 @@ E-Mail: thomas@linuxfürfamilien.net
 
 Unsere Webseite verwendet keine Cookies. Dies kann von Ihnen in den Entwicklerwerkzeugen ihres Browsers überprüft werden.
 
-![](Keine%20Cookies.webp)
+![Ein Screenshot der Firefox Entwicklerwerkzeuge. Unter dem Punkt „Cookies“ wird der TExt „Keine Daten für gewählten Hist vorhanden“ angezeigt.](Keine%20Cookies.webp)
 
 ### Verwendete Cookies und Local Storage
 
@@ -116,7 +116,7 @@ Diese Daten dienen der technischen Bereitstellung und Absicherung unserer Websit
 
 Für Anfragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden:
 
-Thomas Weiss   
+Thomas Weiss  
 E-Mail: thomas@linuxfürfamilien.net
 
 Wir werden Ihre Anfragen schnellstmöglich bearbeiten und Ihnen bei der Ausübung Ihrer Rechte zur Seite stehen.
