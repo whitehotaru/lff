@@ -7,6 +7,7 @@ image: banner-wieviel-hardware.1200.webp
 tags:
     - hardware
     - philosophie
+    - endof10
 categories:
     - Umsteigen
 draft: false

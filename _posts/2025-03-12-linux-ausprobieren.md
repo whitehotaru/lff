@@ -1,18 +1,22 @@
 ---
 title: Linux ausprobieren
-description: Wie bekomme ich Linux auf meinen Rechner? Dieser Beitrag zeigt Dir Schritt für Schritt, wie Du Deinen Rechner mit Linux Mint von einem USB-Stick startest.
+description: Wie bekomme ich Linux auf meinen Rechner? Dieser Beitrag zeigt Dir Schritt für Schritt, wie Du Linux Mint von einem USB-Stick ausprobieren kannst.
 date: 2024-10-01T21:20:42.000Z
-preview: ""
-tags: []
+preview: /images/Startseite Distrosea.webp
+tags:
+    - endof10
 categories:
     - Umsteigen
 media_subpath: /images
 image: /Startseite Distrosea.webp
+keywords:
+    - ausprobieren
+    - linux
 ---
 
-Im letzten Artikel hast Du Dir Dein Linux ausgesucht. Als nächstes solltest Du es einmal anfassen und etwas damit spielen, um besser zu verstehen, wie das System funktioniert und wie Du damit zurechtkommst. Großartiger Weise lassen sich alle Linux Distributionen als „Live-Systeme“ starten. Das bedeutet, dass Du Dein Linux auf einen USB-Stick kopierst, Deinen Rechner startest und Linux startet, ohne dass etwas auf Deine Festplatte installiert wird. Du musst Dich also nicht sofort für einen Umstieg entscheiden, sondern kannst Dich langsam herantasten.
+Im letzten Artikel hast Du Dir Dein Linux ausgesucht. Als nächstes solltest Du es einmal ausprobieren und etwas damit spielen, um besser zu verstehen, wie das System funktioniert und wie Du damit zurechtkommst. Großartigerweise lassen sich alle Linux Distributionen als „Live-Systeme“ starten. Das bedeutet, dass Du Dein Linux auf einen USB-Stick kopierst, Deinen Rechner startest und Linux startet, ohne dass etwas auf Deine Festplatte installiert wird. Du musst Dich also nicht sofort für einen Umstieg entscheiden, sondern kannst Dich langsam herantasten.
 
-Wenn Du Dir einen allerersten Eindruck verschaffen willst, ohne irgendetwas auf Deinem lokalen Rechner zu starten oder zu installieren, kannst Du [https://distrosea.com/](Distrosea) nutzen. Die Webseite bietet die Möglichkeit die Live-Versionen vieler Linux-Distributionen über den Browser auszuprobieren. Damit das System nich überrannt wird, gibt es eine Warteschlange, bis man die gewünschte Linuxdistribution starten kann. Du wartest aber normalerweise unter einer Minute.
+Wenn Du Dir einen allerersten Eindruck verschaffen willst, ohne irgendetwas auf Deinem lokalen Rechner zu starten oder zu installieren, kannst Du [https://distrosea.com/](Distrosea) nutzen. Auf der Webseite kannst Du die Live-Versionen vieler Linux-Distributionen über den Browser ausprobieren. Damit das System nich überrannt wird, gibt es eine Warteschlange, bis man die gewünschte Linuxdistribution starten kann. Du wartest aber normalerweise unter einer Minute.
 
 Wer lieber eine Videoanleitung ansehen will, in der erklärt wird, wie ein Live-USB-Stick vorbereitet wird, dem sei das Video von Linux Guides empfohlen.
 
@@ -20,13 +24,14 @@ Wer lieber eine Videoanleitung ansehen will, in der erklärt wird, wie ein Live-
 
 ## Den Umstieg vorbereiten
 
-Um Linux auszuprobieren, benötigst Du:
+Du benötigst zum ausprobieren:
 
 - einen USB-Stick der mindestens 4 GB groß sein sollte
 - Deinen Rechner
 - ein ISO-Abbild Deiner Linux Distribution
 
-*Achtung! Wenn Du Dein Linux auf den USB-Stick kopierst, werden alle anderen Daten gelöscht.*
+> *Achtung! Wenn Du Dein Linux auf den USB-Stick kopierst, werden alle anderen Daten gelöscht.*
+{: .prompt-danger }
 
 Lade nun Deine Distribution herunter. Linux Mint findest Du unter https://www.linuxmint.com/download.php. Hier kannst Du in den meisten Fällen die „Cinnamon Edition“ nehmen. Diese läuft auch auf meinem Testrechner, einem Thinkpad T410 aus dem Jahr 2010 ohne Probleme.
 

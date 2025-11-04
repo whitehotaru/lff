@@ -1,16 +1,23 @@
 ---
-title: Eine passende Distribution wählen
-description: Bei vielen hundert Linux Distributionen kann die Wahl schwer fallen. Glücklicherweise sind nur einige geeignet, wenn man Anfänger ist oder einfach nur ungestört seinen PC benutzen möchte.
+title: Eine passende Linux-Distribution wählen
+description: Bei vielen hundert Linux Distributionen kann die Wahl schwer fallen. Glücklicherweise gibt es einige wenige, die für Anfänger geeignet sind.
 date: 2024-09-25T20:20:56.000Z
-preview: null
-tags: []
+preview: /images/Startseite Distrosea.webp
+tags:
+    - endof10
 categories:
     - Umsteigen
 media_subpath: /images
 image: /banner-distro-1200.webp
+slug: eine-passende-linux-distribution-wahlen
+keywords:
+    - Linux
+    - Distribution
 ---
 
-Linux ist nicht gleich Linux, sondern kommt in verschiedenen „Distributionen“. [Distributionen sind Pakete](https://www.heise.de/tipps-tricks/Linux-Betriebssysteme-eine-Uebersicht-4119937.html#Was%20ist%20Linux?%20Was%20eine%20Distri?), die alles enthalten, was man benötigt, um einen Computer zu nutzen, wie die Benutzeroberfläche oder Möglichkeiten, Programme zu installieren und natürlich die einzelnen Programme selber. Im Laufe der Entwicklung von Linux haben sich eine Fülle von Distributionen herausgebildet. So gibt es welche für Musikproduktion, Gaming, Softwareentwicklung, Sicherheit, bestimmte Hardware und so weiter. [Das wirkt erst einmal abschreckend](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg) und viele Umsteiger treibt die Frage um, womit sie eigentlich anfangen sollen.
+## Verschiedene Linux-Geschmacksrichtungen – eine Distribution finden
+
+Kein Linux gleicht dem anderen. Das Betriebssystem kommt in verschiedenen Konfigurationen, „Distributionen“ genannt. [Distributionen sind Pakete](https://www.heise.de/tipps-tricks/Linux-Betriebssysteme-eine-Uebersicht-4119937.html#Was%20ist%20Linux?%20Was%20eine%20Distri?), die alles enthalten, was man benötigt, um einen Computer zu nutzen, wie die Benutzeroberfläche oder Möglichkeiten, Programme zu installieren und natürlich die einzelnen Programme selber. Im Laufe der Entwicklung des Betriebssystems haben sich eine Fülle von Distributionen herausgebildet. So gibt es welche für Musikproduktion, Gaming, Softwareentwicklung, Sicherheit, bestimmte Hardware und so weiter. [Das wirkt erst einmal abschreckend](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg) und viele Umsteiger treibt die Frage um, womit sie eigentlich anfangen sollen.
 
 Eine Distribution für Anfänger sollte sich möglichst einfach verhalten und nicht mit zu vielen Möglichkeiten überfordern.
 
@@ -24,9 +31,9 @@ Der Artikel könnte hier zu Ende sein, denn um zu starten, brauchst Du erst einm
 
 ## Fedora
 
-Wenn Du etwas experimentierfreudiger bist, kannst Du auch einen Blick auf [Fedora Linux](https://www.fedoraproject.org) werfen. Im Gegensatz zu Linux Mint bringt Fedora eine eher Apple OS X gleiche Oberfläche mit und versucht immer die neusten Innovationen in der Linux-Welt bereitzustellen. Dies spiegelt sich auch in [den vier Fundamenten wieder: Freiheit, Freunde, Features und vorne dabei sein. (Übersetzung durch mich)](https://docs.fedoraproject.org/de/project/)
+Wenn Du etwas experimentierfreudiger bist, kannst Du auch einen Blick auf [Fedora Linux](https://www.fedoraproject.org) werfen. Im Gegensatz zu Linux Mint bringt Fedora eine eher Apple OS X gleiche Oberfläche mit und versucht immer die neusten Innovationen der Linux-Welt bereitzustellen. Dies spiegelt sich auch in [den vier Fundamenten wieder: Freiheit, Freunde, Features und vorne dabei sein. (Übersetzung durch mich)](https://docs.fedoraproject.org/de/project/)
 
-## Ubuntu Linux
+## Ubuntu
 
 Ubuntu (bedeutet auf Zulu etwa „Menschlichkeit“) ist gewissermaßen die Mutter vieler Linux Distributionen für einfache Nutzer wie Dich. [Aus der Wikipedia](https://de.wikipedia.org/wiki/Ubuntu_(Betriebssystem)#Geschichte):
 

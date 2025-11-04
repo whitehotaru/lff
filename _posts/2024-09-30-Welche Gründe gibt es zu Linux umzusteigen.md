@@ -1,8 +1,12 @@
 ---
 title: Welche Gründe gibt es, zu Linux umzusteigen?
 date: 2024-09-30 17:06:00 +0010
-categories: [Umsteigen]
-tags: [philosophie, politik]     # TAG names should always be lowercase
+categories:
+    - Umsteigen
+tags:
+    - philosophie
+    - politik
+    - endof10
 description: Es gibt viele gute Gründe zu Linux umzusteigen. In diesem Post erkläre ich einige davon.
 toc: false
 media_subpath: /images
