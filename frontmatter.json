@@ -74,18 +74,13 @@
           "title": "keywords",
           "name": "keywords",
           "type": "choice",
-          "choices": [
-            "Handy",
-            "Kinder",
-            "Smartphone",
-            "Schule"
-          ]
+          "choices": ["Handy", "Kinder", "Smartphone", "Schule"]
         }
       ]
     }
   ],
   "frontMatter.framework.id": "jekyll",
-  "frontMatter.content.publicFolder": "assets",
+  "frontMatter.content.publicFolder": "images",
   "frontMatter.preview.host": "http://localhost:4000",
   "frontMatter.content.pageFolders": [
     {
