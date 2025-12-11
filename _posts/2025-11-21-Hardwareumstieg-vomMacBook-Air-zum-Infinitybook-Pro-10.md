@@ -1,8 +1,8 @@
 ---
-title: Hardwareumstieg – vom MacBook Air M2 zum Tuxedocomputers Infinitybook 10
-description: Wer sich für Linux als sein Betriebsystem entscheidet, stellt sich die Frage, ob die neue Hardware wartungsarm unterstützt wird. Mit einem Linux-Laptop lässt sich diese Frage schnell lösen.
-date: 2025-11-21
-preview: null
+title: Hardwareumstieg – vom MacBook Air M2 zum Infinitybook 10
+description: Ein neuer Laptop musste her. Ich gebe euch in diesem Artikel einen Überblick über meine Entscheidungskriterien und das Ergebnis.
+date: 2025-12-10T17:10:42.063Z
+preview: /Rechner nebeneinander.WEBP
 tags:
     - Laptop
     - Linux
@@ -10,6 +10,7 @@ tags:
     - MacBook Air
 categories:
     - Umsteigen
+    - Hardware
 media_subpath: /images
 image:
     path: ""
@@ -17,14 +18,14 @@ image:
     caption: ""
 keywords: ""
 draft: true
-slug: grundschule-kinder-medien-und-smartphones
+slug: hardwareumstieg-vom-macbook-air-m2-zum-infinitybook-10
 ---
 
-Ich habe die letzten 10 Jahre mit Apple Laptops gearbeitet, da mein Arbeitgeber uns diese zur Verfügung stellt und wir sie auch privat nutzen dürfen. Da OS X auch ein Unix-System ist, funktionieren viele Dinge ähnlich wie bei Linux. [Viele Open Source Anwendungen]() werden auch für OS X bereitgestellt und mit [Handbrake]() als zusätzlichem Paketmanager gibt es auch eine elegante Möglichkeit seine Software zu verwalten. 
+Ich habe die letzten 10 Jahre mit Apple Laptops gearbeitet, da mein Arbeitgeber uns diese zur Verfügung stellt und wir sie auch privat nutzen dürfen. Da OS X auch ein Unix-System ist, funktionieren viele Dinge ähnlich wie bei Linux. [Viele Open Source Anwendungen](https://alternativeto.net/platform/mac/?license=opensource) werden auch für OS X bereitgestellt und mit [Homebrew](https://brew.sh/) als zusätzlichem Paketmanager gibt es auch eine elegante Möglichkeit seine Software zu verwalten. 
 
-Das hat gut funktioniert, hatte aber zwei Nachteile. Der Rechner ist einerseits verwaltet. Ein Administrator des Unternehmens hat also theoretisch die volle Kontrolle über meine Daten. Bei unserem digitalisierten Leben, ist das eine ganze Menge Vertrauen, die man in seinen Arbeitgeber haben muss.
+Das hat gut funktioniert, hatte aber zwei Nachteile. Der Rechner ist einerseits verwaltet. Ein Administrator des Unternehmens hat also theoretisch die volle Kontrolle über meine Daten. Das hat gut funktioniert, aber bei unserem digitalisierten Leben, ist das eine ganze Menge Vertrauen, die man in seinen Arbeitgeber haben muss.
 
-Andererseits gehört die Hardware mir natürlich nicht. Sollte ich gehen, muss ich auch den Rechner abgeben und stehe ohne dar. Zwar haben ich die Daten meins privaten Profils gesichert, aber dann nur noch auf relativ langsame Hardware zugreifen zu können, macht keinen Spaß.
+Andererseits gehört die Hardware mir natürlich nicht. Sollte ich den Arbeitgeber wechseln, muss ich auch den Rechner abgeben und stehe ohne dar. Zwar haben ich die Daten meins privaten Profils gesichert, aber dann nur noch auf relativ langsame Hardware zugreifen zu können, macht keinen Spaß.
 
 Also musste ein neuer Rechner her.
 
@@ -32,39 +33,39 @@ Also musste ein neuer Rechner her.
 
 Die Entscheidung für einen neuen Laptop ist mir nicht leicht gefallen. Da ich mehrere Jahre Apples MacBook Pro und MacBook Air genutzt habe, habe ich mich an ein paar Eigenschaften gewöhnt, die für mich essenziell sind. Andere Kriterien ergeben sich weniger aus der Nutzung, als vielmehr aus meiner Einstellung zu Nachhaltigkeit. Nach Wichtigkeit geordnet sind das:
 
-- eine zentrierte Tastatur ohne Numpad
-- ein 16" Bildschirm mit einer hohen Auflösung
-- austauschbarer Massenspeicher, beziehungsweise gute Reparierbarkeit.
-- ein guter Sound 
+- eine zentrierte Tastatur ohne Numpad,
+- ein 16" Bildschirm mit einer hohen Auflösung,
+- Betriebssystem entweder Linux oder OS X,
+- austauschbarer Massenspeicher, beziehungsweise gute Reparierbarkeit,
+- ein guter Sound.
 
-### Bildschirm
+### Die Tastatur
 
-Da wir keinen Fernseher besitzen, schauen wir gerne Filme gemeinsam auf dem Sofa vor dem Laptop. 16 Zoll sind ein guter Kompromiss zwischen 
+Viele Laptops im Format 16" haben eine Tastatur mit einem Numpad an der rechten Seite. Damit rutscht die gesamte Tastatur nach Links und wenn man mittig vor dem Laptop sitzt, ist man immer leicht verdreht, da der Mittelpunkt der Tastatur durch das Numpad verschoben ist. Da Tastatur zu Bildschirm nicht verschiebbar ist, sitzt man schief. Diese Anforderung haben ca. 25% der Nutzenden, [wie Schenker/XMG 2023 mal in einer unrepäsentativen Studie herausgefunden hat.](https://download.schenker-tech.de/temp/Keyboard_Layouts_in_16-inch_results_2023-03-23_update.pdf) 
 
-Kinder wollen es „den Großen“ nachmachen. Dazu gehört heute auch der Umgang mit dem allgegenwärtigen Smartphone und der Konsum der vielfältigen Medienangebote. In den letzten Jahren gehörte es in jeder modernen Schule zum guten Ton mit digitalen Whiteboards und Tablets im Unterricht zu arbeiten. Dieser Trend ändert sich gerade. So titelt die Tagesschau [Wir haben zu viel digital gemacht](https://www.tagesschau.de/ausland/europa/schweden-schulen-buecher-100.html) und [Schulen in SH sollen strengere Regeln für Handys aufstellen](https://www.ndr.de/nachrichten/schleswig-holstein/Schulen-in-SH-sollen-strengere-Regeln-fuer-Handys-aufstellen,handyverbot172.html) titelt der NDR.
+Auf dem Markt ist es dennoch schwer, diese Anforderung zu erfüllen. Laptops die ihr genügen, sind entweder teuer wie das Thinkpad P1 oder nur in Teilen reparierbar wie das ROG Zephyrus G16 (2025) GU605 oder das Asus Zenbook S16. Laptops von Herstellern, die auf Linux-Unterstützung setzen, haben in dem Formfaktor alle ein Numpad. 
 
-Auch bei uns ist das Thema aktuell. In der vierten Klasse des Großen ist er ohne Smartphone in der Minderheit. Verabredungen seiner Klassenkameraden laufen über Messenger Apps. Nach der Schule wird auf dem Smartphone gedaddelt und der Schulweg dauert dann auch mal länger. Beim Kleinen hat die Klassenlehrerin vor kurzem auf die Initiative [Smarter Start ab 14. e.V.](www.smarterstartab14.de) hingewiesen.
+### Der Bildschirm
 
-> Die Elterninitiative wurde 2019 in Hamburg gegründet und setzt sich deutschlandweit für einen bewussten und sicheren Umgang mit digitalen Medien ein. Sie engagiert sich nicht nur für smartphonefreie Schulen, sondern auch für angemessene Altersgrenzen und eine funktionierende Altersverifikation in Online-Plattformen. Gleichgesinnte Eltern können sich über die Initiative vernetzen und an ihrer jeweiligen Schule gemeinsam aktiv werden.
->
-{: .prompt-info }
+Da wir keinen Fernseher besitzen, schauen wir gerne Filme gemeinsam auf dem Sofa vor dem Laptop. 16 Zoll sind ein guter Kompromiss zwischen Größe und Portabilität. Ich habe keine Präferenz zur Reflexion des Monitors. Durch die Apple Geräte habe ich auch gelernt mit glänzenden Bildschirmen klarzukommen. Ich habe allerdings Apples „Retina Auflösung“ zu schätzen gelernt, die eine sehr scharfe Darstellung der Schrift ermöglicht. Der Bildschirm des neuen Gerätes sollte sich also in diesem Auflösungsbereich bewegen. Ein MacBook Air hat eine Auflösung von 2560 × 1664 Pixeln bei 13,6" Bildschirmdiagonale und  hat eine Auflösung von 2880 × 1864 Pixeln bei 15,3" Bildschirmdiagonale.
 
-## Wie Kinder Smartphones wirklich nutzen
+### Das Betriebsystem
 
-Unsere Kinder sind noch in der Grundschule. Die Kinder sind relativ klein und der soziale Druck ist noch relativ gering.[^1] In den weiterführenden Schulen ist der Handykonsum wesentlich höher. Einen ziemlich erschreckenden Einblick liefert [Clemens Beisel](https://clemenshilft.de/?ref=linuxfürfamilien.net), der im [Podcast: „Die Schule brennt - der Bildungspodcast](https://www.swr.de/~embed/swrkultur/wissen/clemens-beisel-handysuechtige-kinder-was-schulen-und-eltern-tun-koennen-100.html) mit [Bob Blume“](https://bobblume.de/?ref=linuxfürfamilien.net) beispielsweise beschreibt, wie Schüler:innen Bildschirmzeiten auf Tiktok in der Woche zwischen 20 und 40 Stunden angehäuft haben oder 33.000 Nachrichten auf WhatsApp im Jahr bekommen haben – neben den normalen Schulaktivitäten! Die knappe dreiviertelstunde des Podcasts ist super investiert, um als Eltern einen Überblick über die Intensität und Probleme der App-Nutzung zu erhalten.
+Beruflich sehe ich, in welche Richtung sich Microsoft so entwickelt und es gefällt mir nicht. Ich möchte an einem Laptop arbeiten und mich nicht von Werbung und zwangsinstallierten Apps berieseln lassen. Also bleiben OS X und Linux. Zwischen diesen beiden ist die Entscheidung eigentlich egal, da es sich bei beiden um Unix Systeme handelt und ich mit beiden in der Vergangenheit produktiv gearbeitet habe.
 
-Moderne Social Media Apps sind darauf ausgerichtet „sticky“ zu sein. Sie werden von vielen intelligenten Menschen darauf optimiert die Nutzer:innen möglichst lange und möglichst oft in die App zu ziehen und dort zu halten.
+### Gute Reparierbarkeit
 
-## Kreativ sein mit dem Smartphone in der Schule
+Die heutigen ultraflachen und ultraleichten Laptops sind nicht mehr mit vertretbarem Aufwand reparierbar. Bei einem modernen MacBook Air sind alle Komponenten verlötet. Sollte der Speicher defekt sein, bedeutet dies das Ende der Maschine. Eher kleinere Hersteller wie Tuxedocomputers oder Slimbook haben Hardware im Angebot, die nicht ganz so flach und leicht wie die der Marktführer ist, [dafür lässt sie sich gut reparieren, sofern wirtschaftlich sinnvoll](https://www.tuxedocomputers.com/de/Infos/Hilfe-Support/Haeufig-gestellte-Fragen/Wie-bekomme-ich-ein-Ersatzteil-.tuxedo). Die Batterien sind eingeschraubt und nicht verklebt. Festplatten und RAM sind erweiter- oder austauschbar.
 
-Ich bin ein Fan davon, sich kreativ mit Technologie auseinanderzusetzen. Ich betreue unter anderem eine Hacker AG an der Schule meiner Söhne, damit die Kinder einen kreativen Umgang mit Technik lernen können und auch lernen können, was hinter all den bunten Bildern steht. Und auch ein Smartphone kann kreativ genutzt werden. Mein Sohn hat mit seinem Klassenkamerad beispielsweise sehr coole [Stop-Motion-Filme](https://de.wikipedia.org/wiki/Stop-Motion) mit LEGO gedreht. Und auch in der Schule gab es eine AG, die ähnliches mit Tablets und Smartphones gemacht hat.
+### Guter Sound
 
-Angesichts der Zahlen, die oben genannt werden, bin ich allerdings skeptisch, ob wir als Eltern dem Thema genügend Raum bieten, denn letztlich können und müssen die Eltern entscheiden, welche Apps die Kinder in welcher Intensität nutzen.
+Da ich auch mal ein Video über das Gerät schaue und gerne Musik ohne Kopfhörer höre, ist ein guter Sound etwas feines. Hier bin ich durch die Lautsprecher der diversen Apple-Geräte definitiv verwöhnt. Andererseits sind abstriche hier weniger ein Problem, da ich als audiophiler Mensch Wert auf gute Lautsprecher für meine Musik lege und entsprechende Bluetooth-Monitore eine valide Alternative darstellen. Für Unterwegs sind Kopfhörer die Lösung.
 
-## Praxisbeispiel – wir
+## Die Entscheidung
 
-Wir beschränken den Medienkonsum in unserer Familie relativ stark. Es gibt, wie ihr vielleicht schon vermutet habt, keine eigenen Smartphones für unsere Kinder. Das versuchen wir durchzuhalten, bis die Kinder zwölf geworden sind. Eine Mutter auf dem ELternabend meines Großen, warf vierzehn als Alter in den Raum. Unsere Kinder haben zur Einschulung einen KANO Ein weiterer Schulbekannter berichtete, dass sein Sohn schon deutliche Unterschiede in der Konzentrationsfähigkeit seiner Klassenkameraden wahrnehmen kann.
+Nach vielen Recherchen ist es ein 14" Tuxedo Infinitybook Pro 10 geworden. Mir war relativ schnell klar, dass es kein privates MacBook wird. Der Aufpreis, den man beispielsweise für zusätzlichen Festplattenplatz zahlt, ist heftig. Dazu wollte ich auch mit meinen Jungs ein paar nicht ganz aktuelle Spiele spielen. Hier ist eine amd64 Architektur aus meiner Sicht vorteilhafter als Apples ARM-Chip.
 
-----
+14" waren ein Kompromiss, da hier die Tastatur beim Tippen mit zehn Fingern mittig zum Bildschirm und über dem Trackpad zentriert ist. Die 16" Alternativen mit einer vergleichbar hohen Bildschirmauflösung, die außerhalb des MacBooks eine ähnliche Konfiguration haben, sind entweder Gaminglaptops wie das ROG Zephyrus G16 und vergleichbare oder das Thinkpad P1. Diese spielen wieder in einer ganz anderen preislichen Liga. Alternativen sind andere Ultrabooks wie das Asus Zenbook S16, das widerrum viele verlötete Teile besitzt und nicht für die Nutzung mit Linux optimiert ist. Hier wäre mit mehr gebastel für ein funktionsfähiges System zu rechnen. Mich wundert immer noch, dass 16" Laptops ohne Numpad so rar sind.
 
-[^1]: relativ bedeutet, dass es bereits Freundeskreise gibt, die ihre Verabredungen auf Handykommunikation gelegt haben. Wer keines besitzt, ist ausgeschlossen.
+Das Infinitybook hat etwas kleinere Bildschirmränder als das 16" MAcBook, so das der Größenunterschied nicht ganz so riesig ausfällt. Die Auflösung ist mit 2880 × 1800 Pixeln vergleichbar mit der des MacBook Air 16" und damit sogar etwas feiner. Auch der matte Bildschirm ist sehr scharf und vor allem hell. Im täglichen Gebrauch in der Wohnung oder im Zug benötige ich kaum mehr als 25–30% der Bildschirmhelligkeit.
+
