@@ -33,7 +33,7 @@ Also musste ein neuer Rechner her.
 
 Die Entscheidung für einen neuen Laptop ist mir nicht leichtgefallen. Da ich mehrere Jahre Apples MacBook Pro und MacBook Air genutzt habe, habe ich mich an ein paar Eigenschaften gewöhnt, die für mich essenziell sind. Andere Kriterien ergeben sich weniger aus der Nutzung, als vielmehr aus meiner Einstellung zu Nachhaltigkeit. Nach Wichtigkeit geordnet sind das:
 
-- Eine zentrierte Tastatur ohne Numpad,
+- Eine zentrierte Tastatur ohne Numpad, 
 - ein 16″-Bildschirm mit einer hohen Auflösung,
 - Betriebssystem entweder Linux oder OS X,
 - austauschbarer Massenspeicher, beziehungsweise gute Reparierbarkeit,
@@ -41,13 +41,13 @@ Die Entscheidung für einen neuen Laptop ist mir nicht leichtgefallen. Da ich me
 
 ### Die Tastatur
 
-Viele Laptops im Format 16" haben eine Tastatur mit einem Numpad an der rechten Seite. Damit rutscht die gesamte Tastatur nach links, und wenn man mittig vor dem Laptop sitzt, ist man immer leicht verdreht, da der Mittelpunkt der Tastatur durch das Numpad verschoben ist. Da die Tastatur zum Bildschirm nicht verschiebbar ist, sitzt man schief. Diese Anforderung haben ca. 25 % der Nutzenden, [wie Schenker/XMG 2023 mal in einer unrepäsentativen Studie herausgefunden hat.](https://download.schenker-tech.de/temp/Keyboard_Layouts_in_16-inch_results_2023-03-23_update.pdf)
+Viele Laptops im Format 16 Zoll (ca. 41 cm) haben eine Tastatur mit einem Numpad an der rechten Seite. Damit rutscht die gesamte Tastatur nach links, und wenn man mittig vor dem Laptop sitzt, ist man immer leicht verdreht, da der Mittelpunkt der Tastatur durch das Numpad verschoben ist. Da die Tastatur zum Bildschirm nicht verschiebbar ist, sitzt man schief. Diese Anforderung haben ca. 25 % der Nutzenden, [wie Schenker/XMG 2023 mal in einer unrepäsentativen Studie herausgefunden hat.](https://download.schenker-tech.de/temp/Keyboard_Layouts_in_16-inch_results_2023-03-23_update.pdf)
 
-Auf dem Markt ist es dennoch schwer, diese Anforderung zu erfüllen. Laptops die ihr genügen, sind entweder teuer wie das Thinkpad P1 oder nur in Teilen reparierbar wie das ROG Zephyrus G16 (2025) GU605 oder das Asus Zenbook S16. Laptops von Herstellern, die auf Linux-Unterstützung setzen, haben in dem Formfaktor alle ein Numpad.
+Auf dem Markt ist es dennoch schwer, diese Anforderung zu erfüllen. Laptops, die sie erfüllen, sind entweder teuer wie das Thinkpad P1 oder nur in Teilen reparierbar wie das ROG Zephyrus G16 (2025) GU605 oder das Asus Zenbook S16. Oder sie haben keine Bildschirmauflösung, die über die üblichen 1980 × 1080 Pixel hinausgeht. Laptops von Herstellern, die auf Linux-Unterstützung setzen, haben in dem Formfaktor alle ein Numpad.
 
 ### Der Bildschirm
 
-Da wir keinen Fernseher besitzen, schauen wir gerne Filme gemeinsam auf dem Sofa vor dem Laptop. 16 Zoll (ca. 41 cm) sind ein guter Kompromiss zwischen Größe und Portabilität. Ich habe keine Präferenz zur Reflexion des Monitors. Durch die Apple-Geräte habe ich auch gelernt, mit glänzenden Bildschirmen klarzukommen. Ich habe allerdings Apples „Retina-Auflösung“ zu schätzen gelernt, die eine sehr scharfe Darstellung der Schrift ermöglicht. Der Bildschirm des neuen Gerätes sollte sich also in diesem Auflösungsbereich bewegen. Ein MacBook Air hat eine Auflösung von 2560 × 1664 Pixeln bei 13,6 Zoll (ca. 35 cm) Bildschirmdiagonale und hat eine Auflösung von 2880 × 1864 15,3 Zoll (ca. 39 cm) Bildschirmdiagonale.
+Da wir keinen Fernseher besitzen, schauen wir gerne Filme gemeinsam auf dem Sofa vor dem Laptop. 16 Zoll (ca. 41 cm) sind ein guter Kompromiss zwischen Größe und Portabilität. Ich habe keine Präferenz zur Reflexion des Monitors. Durch die Apple-Geräte habe ich auch gelernt, mit glänzenden Bildschirmen klarzukommen. Ich habe allerdings Apples „Retina-Auflösung“ zu schätzen gelernt, die eine sehr scharfe Darstellung der Schrift ermöglicht. Der Bildschirm des neuen Gerätes sollte sich also in diesem Auflösungsbereich bewegen. Ein MacBook Air hat eine Auflösung von 2560 × 1664 Pixeln bei 13,6 Zoll (ca. 35 cm) Bildschirmdiagonale und eine Auflösung von 2880 × 1864 bei 15,3 Zoll (ca. 39 cm) Bildschirmdiagonale.
 
 ### Das Betriebsystem
 
@@ -63,10 +63,12 @@ Da ich auch mal ein Video über das Gerät schaue und gerne Musik ohne Kopfhöre
 
 ## Die Entscheidung
 
-Nach vielen Recherchen ist es ein 14″ Tuxedo Infinitybook Pro 10 geworden. Mir war relativ schnell klar, dass es kein privates MacBook wird. Der Aufpreis, den man beispielsweise für zusätzlichen Festplattenplatz zahlt, ist heftig. Dazu wollte ich auch mit meinen Jungs ein paar nicht ganz aktuelle Spiele spielen. Hier ist eine amd64-Architektur aus meiner Sicht vorteilhafter als Apples ARM-Chip.
+Nach vielen Recherchen ist es ein [14″ Tuxedo Infinitybook Pro 10](https://www.tuxedocomputers.com/de/TUXEDO-InfinityBook-Pro-14-Gen10.tuxedo) geworden. Mir war relativ schnell klar, dass es kein privates MacBook wird. Der Aufpreis, den man beispielsweise für zusätzlichen Festplattenplatz zahlt, ist heftig. Dazu wollte ich auch mit meinen Jungs ein paar nicht ganz aktuelle Spiele spielen. Hier ist eine amd64-Architektur aus meiner Sicht vorteilhafter als Apples ARM-Chip.
 
-14" waren ein Kompromiss, da hier die Tastatur beim Tippen mit zehn Fingern mittig zum Bildschirm und über dem Trackpad zentriert ist. 16-Zoll-Alternativen mit einer vergleichbar hohen Bildschirmauflösung, die außerhalb des MacBooks eine ähnliche Konfiguration haben, sind entweder Gaminglaptops wie das ROG Zephyrus G16 und vergleichbare oder das Thinkpad P1. Diese spielen wieder in einer ganz anderen preislichen Liga. Andere Alternativen sind Ultrabooks wie das Asus Zenbook S16, das wiederum viele verlötete Teile besitzt und nicht für die Nutzung mit Linux optimiert ist. Bei so einem Gerät ist mit mehr Gebastel für ein funktionsfähiges System zu rechnen. Mich wundert immer noch, dass 16″-Laptops ohne Numpad so rar sind.
+14″ waren ein Kompromiss, da hier die Tastatur beim Tippen mit zehn Fingern mittig zum Bildschirm und über dem Trackpad zentriert ist. 16-Zoll-Alternativen mit einer vergleichbar hohen Bildschirmauflösung, die außerhalb des MacBooks eine ähnliche Konfiguration haben, sind entweder Gaminglaptops wie das ROG Zephyrus G16 und vergleichbare oder das Thinkpad P1. Diese spielen wieder in einer ganz anderen preislichen Liga. Alternativen sind Ultrabooks wie das Asus Zenbook S16, das wiederum viele verlötete Teile besitzt und nicht für die Nutzung mit Linux optimiert ist. Bei so einem Gerät ist mit mehr Gebastel für ein funktionsfähiges System zu rechnen. Mich wundert immer noch, dass 16″-Laptops ohne Numpad so rar sind.
 
 Das Infinitybook hat etwas kleinere Bildschirmränder als das 16″‑MacBook, sodass der Größenunterschied nicht ganz so riesig ausfällt. Die Auflösung ist mit 2880 × 1800 Pixeln vergleichbar mit der des MacBook Air 16″ und damit sogar etwas feiner, da der Bildschirm kleiner ist. Der matte Bildschirm ist sehr scharf und vor allem hell. Im täglichen Gebrauch in der Wohnung oder im Zug benötige ich kaum mehr als 25–30 % der Bildschirmhelligkeit.
 
-Die Tastatur hat einen etwas größeren Tastenhub und mehr Widerstand als die des MacBooks, was mir gefällt. 
+Die Tastatur hat einen etwas größeren Tastenhub und mehr Widerstand als die des MacBooks, was mir gut gefällt.
+
+Die weiteren Eigenschaften werden sich im täglichen Gebrauch zeigen. Ich poste zu einzelnen Themen  in Folge weitere Beiträge.
