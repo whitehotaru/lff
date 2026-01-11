@@ -33,7 +33,7 @@ Also musste ein neuer Rechner her.
 
 Die Entscheidung für einen neuen Laptop ist mir nicht leichtgefallen. Da ich mehrere Jahre Apples MacBook Pro und MacBook Air genutzt habe, habe ich mich an ein paar Eigenschaften gewöhnt, die für mich essenziell sind. Andere Kriterien ergeben sich weniger aus der Nutzung, als vielmehr aus meiner Einstellung zu Nachhaltigkeit. Nach Wichtigkeit geordnet sind das:
 
-- Eine zentrierte Tastatur ohne Numpad, 
+- Eine zentrierte Tastatur ohne Numpad,
 - ein 16″-Bildschirm mit einer hohen Auflösung,
 - Betriebssystem entweder Linux oder OS X,
 - austauschbarer Massenspeicher, beziehungsweise gute Reparierbarkeit,
@@ -74,3 +74,46 @@ Die Tastatur hat einen etwas größeren Tastenhub und mehr Widerstand als die de
 Die weiteren Eigenschaften werden sich im täglichen Gebrauch zeigen. Ich poste zu einzelnen Themen  in Folge weitere Beiträge. Hier noch ein paar Bilder vom Unboxing
 
 ![](/Unboxing-1-die-Box.WEBP)
+_Der Laptop kommt gut verpackt._
+
+![](/Unboxing-02.WEBP)
+_Das Zubehör liegt extra verpackt_
+
+![](/Unboxing-03.WEBP)
+_Der Rechner ist gut mit Schaumstoff gepolstert_
+
+![](/Unboxing-04.WEBP)
+_Zubehör und die gepolsterte Box mit dem eigentlichen Laptop_
+
+![](/Unboxing-05-Beigaben.WEBP)
+_Das Zubehör umfasst einen AMD-Sticker (yay?), einen Schlüsselanhänger, den USB-Stick mit [https://www.tuxedocomputers.com/de/TUXEDO-WebFAI.tuxedo](WebFAI), einen magnetischen USB-C-Konnektor, das 150 W Netzteil mit Kabel._
+
+![](/Unboxing-06-innere Werte.WEBP)
+_eine schwarze Box_
+
+![](/Unboxing-07-innere Werte.WEBP)
+_mehr Zubehör! Es gibt auch ein schickes Tuxedo-Mauspad dazu._
+
+![](/Unboxing-08-innere Werte.WEBP)
+_die Anleitung, von Tux persönlich qualitätsgeprüft!_
+
+![](/Unboxing-09-innere Werte.WEBP)
+_der Laptop ist noch einmal extra in Folie verpackt…_ 
+
+![](/Unboxing-10-innere Werte.WEBP)
+_… und versiegelt._
+
+![](/Unboxing-11-innere Werte.WEBP)
+_Eine Folie schützt den Bildschirm und den Aufdruck auf dem Deckel._
+
+![](/Unboxing-12-innere Werte.WEBP)
+_Auch die Tastatur ist noch einmal abggedeckt._
+
+![](/Unboxing-13-innere Werte.WEBP)
+_Der Laptop von oben, ohne Verpackung_
+
+![](/Unboxing-14-innere Werte.WEBP)
+_Der Laptop von unten, ohne Verpackung_
+
+![](/Unboxing-15-innere Werte.WEBP)
+_Blick auf die Tastatur_
