@@ -73,6 +73,8 @@ Die Tastatur hat einen etwas größeren Tastenhub und mehr Widerstand als die de
 
 Die weiteren Eigenschaften werden sich im täglichen Gebrauch zeigen. Ich poste zu einzelnen Themen  in Folge weitere Beiträge. Hier noch ein paar Bilder vom Unboxing
 
+### Unboxing
+
 ![](/Unboxing-1-die-Box.WEBP)
 _Der Laptop kommt gut verpackt._
 
@@ -86,7 +88,7 @@ _Der Rechner ist gut mit Schaumstoff gepolstert_
 _Zubehör und die gepolsterte Box mit dem eigentlichen Laptop_
 
 ![](/Unboxing-05-Beigaben.WEBP)
-_Das Zubehör umfasst einen AMD-Sticker (yay?), einen Schlüsselanhänger, den USB-Stick mit [https://www.tuxedocomputers.com/de/TUXEDO-WebFAI.tuxedo](WebFAI), einen magnetischen USB-C-Konnektor, das 150 W Netzteil mit Kabel._
+_Das Zubehör umfasst einen AMD-Sticker (yay?), einen Schlüsselanhänger, den USB-Stick mit [WebFAI](https://www.tuxedocomputers.com/de/TUXEDO-WebFAI.tuxedo), einen magnetischen USB-C-Konnektor, das 150 W Netzteil mit Kabel._
 
 ![](/Unboxing-06-innere Werte.WEBP)
 _eine schwarze Box_
