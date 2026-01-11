@@ -1,7 +1,7 @@
 ---
 title: Hardwareumstieg – vom MacBook Air M2 zum Infinitybook Pro 10
 description: Ein neuer Laptop musste her. Ich gebe euch in diesem Artikel einen Überblick über meine Entscheidungskriterien und das Ergebnis.
-date: 2026-01-08T16:36:17.669Z
+date: 2026-01-11T00:03:52.167Z
 preview: /images/Rechner-nebeneinander.webp
 tags:
     - Laptop
@@ -17,7 +17,7 @@ image:
     alt: ""
     caption: ""
 draft: false
-slug: hardwareumstieg-vom-macbook-air-m2-zum-infinitybook-10
+slug: hardwareumstieg-–-vom-macbook-air-m2-zum-infinitybook-pro-10
 keywords: ""
 ---
 
@@ -71,4 +71,6 @@ Das Infinitybook hat etwas kleinere Bildschirmränder als das 16″‑MacBook, s
 
 Die Tastatur hat einen etwas größeren Tastenhub und mehr Widerstand als die des MacBooks, was mir gut gefällt.
 
-Die weiteren Eigenschaften werden sich im täglichen Gebrauch zeigen. Ich poste zu einzelnen Themen  in Folge weitere Beiträge.
+Die weiteren Eigenschaften werden sich im täglichen Gebrauch zeigen. Ich poste zu einzelnen Themen  in Folge weitere Beiträge. Hier noch ein paar Bilder vom Unboxing
+
+![](/Unboxing-1-die-Box.WEBP)
